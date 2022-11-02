@@ -1,0 +1,11 @@
+@media(max-width: 660px){
+    .responsive-text{
+        padding-top: 10px;
+        font-size: 25px;
+    }
+}
+
+input:focus, input:focus, select:focus {
+    outline: 0;
+    border:none;
+}
